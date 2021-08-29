@@ -2,7 +2,7 @@
 # Work-Day-Scheduler
 https://jtdizzle.github.io/Work-Day-Scheduler/  
 
-Acceptance Criteria
+Acceptance Criteria:
 
 GIVEN I am using a daily planner to create a schedule  
 WHEN I open the planner  
