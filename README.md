@@ -1,4 +1,4 @@
-(https://github.com/jtdizzle/Work-Day-Scheduler/files/7071804/README.md)  
+
 # Work-Day-Scheduler
 https://jtdizzle.github.io/Work-Day-Scheduler/  
 
